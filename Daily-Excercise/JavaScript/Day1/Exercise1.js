@@ -22,3 +22,4 @@ Current Time is: ${hour} PM : ${minutes} : ${seconds}`;
 
 // document.getElementById('timeDisplay').innerHTML = currentTime();
 timeDisplay.insertAdjacentHTML('afterbegin', dayDisplay);
+
